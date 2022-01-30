@@ -1,0 +1,10 @@
+{
+  "name": "supremeoctowinner",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
